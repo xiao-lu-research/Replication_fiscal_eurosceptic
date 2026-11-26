@@ -5,7 +5,7 @@ This directory reproduces the main tables and figures for *Rules Under Pressure:
 ## Contents
 
 - `replication_data.RData`: the main dataset.
-- `main_analysis.R`: generates `Fig_1`--`Fig_4` and `Tab_1`--`Tab_2`.
+- `main_analysis.R`: generates the main figures and tables.
 
 ## Running the code
 
