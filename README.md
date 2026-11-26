@@ -4,7 +4,7 @@ This directory reproduces the main tables and figures for *Rules Under Pressure:
 
 ## Contents
 
-- `replication_data.RData`: curated country-year data and compact posterior summaries used in Appendix D.
+- `replication_data.RData`: the main dataset.
 - `main_analysis.R`: generates `Fig_1`--`Fig_4` and `Tab_1`--`Tab_2`.
 
 ## Running the code
